@@ -1,12 +1,12 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Tables learner is a small and simple command line program wirtten in java by me for learning tables with ease.
+Note: OPEN IT WITH BLUEJ 
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
+PROJECT TITLE:Tables learner
+PURPOSE OF PROJECT: To make tables learned easily
+VERSION or DATE:Version 1.0
+HOW TO START THIS PROJECT: Just input the number you want the multiplication table of
+AUTHORS: yoboy20
 USER INSTRUCTIONS:
+Open it as a existing project in Bluej
